@@ -1,0 +1,12 @@
+<html>
+    <head>
+
+		<title>Accenture</title>
+</head>
+
+<body>
+
+	<h1>Accenture - High Performance delivered</h1>
+	About US
+   </body>
+</html>
