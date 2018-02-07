@@ -1,0 +1,18 @@
+<html>
+    <head>
+
+		<title>Accenture</title>
+</head>
+
+<body>
+
+	<h1>Accenture - High Performance delivered</h1>
+	<u1>
+
+		<li>Consulting</li>
+		<li>Outsourcing</li>
+		<li>Technology</li>
+	</u1>
+
+   </body>
+</html>
